@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "285345606584",
+    "firebase_url": "https://nammaraste-e0e27-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nammaraste-e0e27",
+    "storage_bucket": "nammaraste-e0e27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285345606584:android:2bc4f10685a94e2f77bd4d",
+        "android_client_info": {
+          "package_name": "com.example.namma_rasthe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoO8GHUDI3GPTHIqq244ajPPQdqFj_Mx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
